@@ -12,8 +12,4 @@ A user-friendly web application for downloading YouTube videos in various format
 - 📥 Multiple quality options (1080p, 720p, etc.)
 - 🔊 Audio-only download option
 - 📱 Responsive mobile design
-
-## Prerequisites
-
 - Modern web browser (Chrome, Firefox, Safari, Edge)
-- Backend API service (see API Integration section)
